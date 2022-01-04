@@ -1,0 +1,4 @@
+msg/HunterActuatorState.idl
+msg/HunterActuatorState.msg
+msg/HunterStatus.idl
+msg/HunterStatus.msg

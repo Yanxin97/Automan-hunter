@@ -1,0 +1,62 @@
+-- The C compiler identification is GNU 9.3.0
+-- The CXX compiler identification is GNU 9.3.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 0.9.9 (/opt/ros/foxy/share/ament_cmake/cmake)
+-- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /robot/Automan-hunter/Workspace/ros2_ws/build/hunter_description
+-- Install configuration: ""
+-- Installing: /robot/Automan-hunter/Workspace/ros2_ws/install/hunter_description/share/hunter_description//launch
+-- Installing: /robot/Automan-hunter/Workspace/ros2_ws/install/hunter_description/share/hunter_description//launch/hunter_gazebo.launch.py
+-- Installing: /robot/Automan-hunter/Workspace/ros2_ws/install/hunter_description/share/hunter_description//launch/hunter_base_description.launch.py
+-- Installing: /robot/Automan-hunter/Workspace/ros2_ws/install/hunter_description/share/hunter_description//urdf
+-- Installing: /robot/Automan-hunter/Workspace/ros2_ws/install/hunter_description/share/hunter_description//urdf/hunter_v1_ntunav_gazebo.urdf
+-- Installing: /robot/Automan-hunter/Workspace/ros2_ws/install/hunter_description/share/hunter_description//urdf/hunter_v1_nav.urdf
+-- Installing: /robot/Automan-hunter/Workspace/ros2_ws/install/hunter_description/share/hunter_description//urdf/hunter_v1_nav.xacro
+-- Installing: /robot/Automan-hunter/Workspace/ros2_ws/install/hunter_description/share/hunter_description//urdf/hunter_v1_base.xacro
+-- Installing: /robot/Automan-hunter/Workspace/ros2_ws/install/hunter_description/share/hunter_description//urdf/hunter_v1_sim.xacro
+-- Installing: /robot/Automan-hunter/Workspace/ros2_ws/install/hunter_description/share/hunter_description//urdf/hunter_v1_ntunav.urdf
+-- Installing: /robot/Automan-hunter/Workspace/ros2_ws/install/hunter_description/share/hunter_description//urdf/hunter_v1_ntunav.xacro
+-- Installing: /robot/Automan-hunter/Workspace/ros2_ws/install/hunter_description/share/hunter_description//urdf/hunter_v1_sim.urdf
+-- Installing: /robot/Automan-hunter/Workspace/ros2_ws/install/hunter_description/share/hunter_description//urdf/hunter_v1_ntunav_gazebo.xacro
+-- Installing: /robot/Automan-hunter/Workspace/ros2_ws/install/hunter_description/share/hunter_description//meshes
+-- Installing: /robot/Automan-hunter/Workspace/ros2_ws/install/hunter_description/share/hunter_description//meshes/wheel_rr.dae
+-- Installing: /robot/Automan-hunter/Workspace/ros2_ws/install/hunter_description/share/hunter_description//meshes/base_link.dae
+-- Installing: /robot/Automan-hunter/Workspace/ros2_ws/install/hunter_description/share/hunter_description//meshes/hub_shape.stl
+-- Installing: /robot/Automan-hunter/Workspace/ros2_ws/install/hunter_description/share/hunter_description//meshes/wheel_rl.dae
+-- Installing: /robot/Automan-hunter/Workspace/ros2_ws/install/hunter_description/share/hunter_description//meshes/wheel_fr.dae
+-- Installing: /robot/Automan-hunter/Workspace/ros2_ws/install/hunter_description/share/hunter_description//meshes/steer_conn_fl.dae
+-- Installing: /robot/Automan-hunter/Workspace/ros2_ws/install/hunter_description/share/hunter_description//meshes/steer_conn_fr.dae
+-- Installing: /robot/Automan-hunter/Workspace/ros2_ws/install/hunter_description/share/hunter_description//meshes/wheel_fl.dae
+-- Installing: /robot/Automan-hunter/Workspace/ros2_ws/install/hunter_description/share/hunter_description//rviz
+-- Installing: /robot/Automan-hunter/Workspace/ros2_ws/install/hunter_description/share/hunter_description//rviz/viz.rviz
+-- Installing: /robot/Automan-hunter/Workspace/ros2_ws/install/hunter_description/share/hunter_description//world
+-- Installing: /robot/Automan-hunter/Workspace/ros2_ws/install/hunter_description/share/hunter_description//world/my_world.sdf
+-- Installing: /robot/Automan-hunter/Workspace/ros2_ws/install/hunter_description/share/ament_index/resource_index/package_run_dependencies/hunter_description
+-- Installing: /robot/Automan-hunter/Workspace/ros2_ws/install/hunter_description/share/ament_index/resource_index/parent_prefix_path/hunter_description
+-- Installing: /robot/Automan-hunter/Workspace/ros2_ws/install/hunter_description/share/hunter_description/environment/ament_prefix_path.sh
+-- Installing: /robot/Automan-hunter/Workspace/ros2_ws/install/hunter_description/share/hunter_description/environment/ament_prefix_path.dsv
+-- Installing: /robot/Automan-hunter/Workspace/ros2_ws/install/hunter_description/share/hunter_description/environment/path.sh
+-- Installing: /robot/Automan-hunter/Workspace/ros2_ws/install/hunter_description/share/hunter_description/environment/path.dsv
+-- Installing: /robot/Automan-hunter/Workspace/ros2_ws/install/hunter_description/share/hunter_description/local_setup.bash
+-- Installing: /robot/Automan-hunter/Workspace/ros2_ws/install/hunter_description/share/hunter_description/local_setup.sh
+-- Installing: /robot/Automan-hunter/Workspace/ros2_ws/install/hunter_description/share/hunter_description/local_setup.zsh
+-- Installing: /robot/Automan-hunter/Workspace/ros2_ws/install/hunter_description/share/hunter_description/local_setup.dsv
+-- Installing: /robot/Automan-hunter/Workspace/ros2_ws/install/hunter_description/share/hunter_description/package.dsv
+-- Installing: /robot/Automan-hunter/Workspace/ros2_ws/install/hunter_description/share/ament_index/resource_index/packages/hunter_description
+-- Installing: /robot/Automan-hunter/Workspace/ros2_ws/install/hunter_description/share/hunter_description/cmake/hunter_descriptionConfig.cmake
+-- Installing: /robot/Automan-hunter/Workspace/ros2_ws/install/hunter_description/share/hunter_description/cmake/hunter_descriptionConfig-version.cmake
+-- Installing: /robot/Automan-hunter/Workspace/ros2_ws/install/hunter_description/share/hunter_description/package.xml
