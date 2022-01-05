@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>hunter_gazebo</name>
+  <version>0.0.0</version>
+  <description>The hunter_description package</description>
+
+  <maintainer email="yanxin.zhou@ntu.edu.sg">zyx</maintainer>
+  <license>BSD</license>
+
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  
+  <exec_depend>joint_state_publisher</exec_depend>
+  <exec_depend>joint_state_publisher_gui</exec_depend>
+  <exec_depend>robot_state_publisher</exec_depend>
+  <depend>urdf</depend>
+  <depend>xacro</depend>
+  <exec_depend>robot_localization</exec_depend>
+
+  <!-- The export tag contains other, unspecified, tags -->
+  <export>
+    <!-- Other tools can request additional information be placed here -->
+     <build_type>ament_cmake</build_type>
+  </export>
+</package>
