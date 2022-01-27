@@ -19,19 +19,19 @@ class TelelopHunter : public rclcpp::Node
         rclcpp::Subscription<sensor_msgs::msg::Joy>::SharedPtr joy_sub_;
 
         //Joystick intrinsic parameters
-        int linear_idx_ = 1;
+        int linear_idx_ = 4;
         int angular_idx_ = 0; 
-        int flag = 0;
-        double l_scale_ = 0.5; 
-        double a_scale_ = 0.3;
+        int flag = 1;
+        double l_scale_ = 1; 
+        double a_scale_ = 1;
 };
 
 void TelelopHunter::joyCallback(const sensor_msgs::msg::Joy::SharedPtr joy){
 	//if(joy->buttons[5]==1 && joy->axes[linear_idx_] == -1)
 		//flag = 1;
 	//start event lock
-	if(joy->buttons[0]==1)
-		flag = 1;
+	// if(joy->buttons[0]==1)
+	// 	flag = 1;
 	//start event lock	
     geometry_msgs::msg::Twist twist;
 	
